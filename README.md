@@ -1,4 +1,4 @@
-# SDN Labs – M2 Networks & Systems (Université d'Évry Paris-Saclay)
+# SDN Labs – M2 CNS - Networks & Systems (Université d'Évry Paris-Saclay)
 
 Hands-on labs on Software-Defined Networking: network emulation with Mininet,
 the OpenFlow protocol, and SDN controllers.
